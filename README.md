@@ -1,2 +1,1 @@
-# Matplotlib-Python
-Learning Matplotlib with Python!
+# Matplotlib Python
